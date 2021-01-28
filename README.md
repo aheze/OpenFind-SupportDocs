@@ -3,7 +3,7 @@ This branch is where SupportDocs gets its data! You can add, edit, and delete do
 
 ## Data Source JSON URL
 <a href="https://raw.githubusercontent.com/aheze/FindInfo/DataSource/_data/supportdocs_datasource.json">https://raw.githubusercontent.com/aheze/FindInfo/DataSource/_data/supportdocs_datasource.json</a>
-
+ 
 <details>
 <summary><strong>Show examples</strong></summary>
 

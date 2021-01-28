@@ -2,9 +2,9 @@
 This branch is where SupportDocs gets its data! You can add, edit, and delete documents here. For usage instructions, check out the `README`'s [usage](https://github.com/aheze/SupportDocs#using-the-github-repo) section in the main branch.
 
 ## Data Source JSON URL
-<a href="https://raw.githubusercontent.com/aheze/FindInfo/DataSource/_data/supportdocs_datasource.json">https://raw.githubusercontent.com/aheze/FindInfo/DataSource/_data/supportdocs_datasource.json</a> 
+<a href="https://raw.githubusercontent.com/aheze/FindInfo/DataSource/_data/supportdocs_datasource.json">https://raw.githubusercontent.com/aheze/FindInfo/DataSource/_data/supportdocs_datasource.json</a>
 
-<details>  
+<details>
 <summary><strong>Show examples</strong></summary>
 
 <hr>
@@ -47,21 +47,20 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://aheze.github.io/FindInfo/404) (SupportDocs Integrated File) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/FindInfo/404.md))
-- [Apple smoothie](https://aheze.github.io/FindInfo/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Sample-Smoothies/Apple.md))
-- [Blueberry smoothie](https://aheze.github.io/FindInfo/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Sample-Smoothies/Blueberry.md))
-- [Buy blue boba](https://aheze.github.io/FindInfo/Lists/BuyBlueBoba) (boba) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Lists/BuyBlueBoba.md))
-- [Buy cream boba](https://aheze.github.io/FindInfo/Lists/BuyCreamBoba) (boba) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Lists/BuyCreamBoba.md))
-- [Buy orange boba](https://aheze.github.io/FindInfo/Lists/BuyOrangeBoba) (boba) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Lists/BuyOrangeBoba.md))
-- [How to cook pizza](https://aheze.github.io/FindInfo/Sample-FastFood/HowToCookPizza) (fastFood) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Sample-FastFood/HowToCookPizza.md))
-- [How to eat burritos](https://aheze.github.io/FindInfo/Sample-FastFood/HowToEatBurritos) (fastFood) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Sample-FastFood/HowToEatBurritos.md))
-- [How to eat grilled cheese](https://aheze.github.io/FindInfo/Sample-FastFood/HowToEatGrilledCheese) (fastFood) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Sample-FastFood/HowToEatGrilledCheese.md))
-- [How to eat nachos](https://aheze.github.io/FindInfo/Sample-FastFood/HowToEatNachos) (fastFood) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Sample-FastFood/HowToEatNachos.md))
-- [How to eat tacos](https://aheze.github.io/FindInfo/Sample-FastFood/HowToEatTacos) (fastFood) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Sample-FastFood/HowToEatTacos.md))
-- [How to make spaghetti](https://aheze.github.io/FindInfo/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
-- [How to prepare ramen](https://aheze.github.io/FindInfo/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
-- [Peach smoothie](https://aheze.github.io/FindInfo/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Sample-Smoothies/Peach.md))
-- [Plum smoothie](https://aheze.github.io/FindInfo/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Sample-Smoothies/Plum.md))
-- [Red berry smoothie](https://aheze.github.io/FindInfo/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Sample-Smoothies/RedBerries.md))
+- [Caching photos](https://aheze.github.io/FindInfo/Photos/CachePhotos) (photos) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Photos/CachePhotos.md))
+- [Find from all photos](https://aheze.github.io/FindInfo/Photos/FindFromAllPhotos) (photos) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Photos/FindFromAllPhotos.md))
+- [Finding from Photos takes a long time](https://aheze.github.io/FindInfo/Photos/TakeLongTime) (photos) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Photos/TakeLongTime.md))
+- [Haptic Feedback](https://aheze.github.io/FindInfo/Settings/HapticFeedback) (settings) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Settings/HapticFeedback.md))
+- [Hearting](https://aheze.github.io/FindInfo/Photos/Hearting) (photos) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Photos/Hearting.md))
+- [How do I delete a list?](https://aheze.github.io/FindInfo/Lists/DeleteList) (lists) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Lists/DeleteList.md))
+- [How to add a word](https://aheze.github.io/FindInfo/Lists/AddWord) (lists) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Lists/AddWord.md))
+- [How to delete a word](https://aheze.github.io/FindInfo/Lists/DeleteWord) (lists) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Lists/DeleteWord.md))
+- [Photos Controls](https://aheze.github.io/FindInfo/Photos/PhotosControls) (photos) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Photos/PhotosControls.md))
+- [Text Detected Indicator](https://aheze.github.io/FindInfo/Settings/TextDetection) (settings) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Settings/TextDetection.md))
+- [Uncache Photos](https://aheze.github.io/FindInfo/Photos/Uncache) (photos) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Photos/Uncache.md))
+- [What are Lists?](https://aheze.github.io/FindInfo/Lists/WhatAreLists) (lists) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Lists/WhatAreLists.md))
+- [What is a Word to Find?](https://aheze.github.io/FindInfo/Lists/WordToFind) (lists) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Lists/WordToFind.md))
+- [What is the Cache?](https://aheze.github.io/FindInfo/Photos/WhatIsCache) (photos) ([edit](https://github.com/aheze/FindInfo/edit/DataSource/Photos/WhatIsCache.md))
 
 
 ## Notes

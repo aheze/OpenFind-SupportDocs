@@ -1,107 +1,100 @@
 [
     {
-        "title": "Apple smoothie",
-        "url": "https://aheze.github.io/FindInfo/Sample-Smoothies/Apple",
+        "title": "How to add a word",
+        "url": "https://aheze.github.io/FindInfo/Lists/AddWord",
         "tags": [
-            "smoothies"
+            "lists"
         ]
     },
     {
-        "title": "Blueberry smoothie",
-        "url": "https://aheze.github.io/FindInfo/Sample-Smoothies/Blueberry",
+        "title": "Caching photos",
+        "url": "https://aheze.github.io/FindInfo/Photos/CachePhotos",
         "tags": [
-            "smoothies"
+            "photos"
         ]
     },
     {
-        "title": "Buy blue boba",
-        "url": "https://aheze.github.io/FindInfo/Lists/BuyBlueBoba",
+        "title": "How do I delete a list?",
+        "url": "https://aheze.github.io/FindInfo/Lists/DeleteList",
         "tags": [
-            "boba"
+            "lists"
         ]
     },
     {
-        "title": "Buy cream boba",
-        "url": "https://aheze.github.io/FindInfo/Lists/BuyCreamBoba",
+        "title": "How to delete a word",
+        "url": "https://aheze.github.io/FindInfo/Lists/DeleteWord",
         "tags": [
-            "boba"
+            "lists"
         ]
     },
     {
-        "title": "Buy orange boba",
-        "url": "https://aheze.github.io/FindInfo/Lists/BuyOrangeBoba",
+        "title": "Find from all photos",
+        "url": "https://aheze.github.io/FindInfo/Photos/FindFromAllPhotos",
         "tags": [
-            "boba"
+            "photos"
         ]
     },
     {
-        "title": "How to cook pizza",
-        "url": "https://aheze.github.io/FindInfo/Sample-FastFood/HowToCookPizza",
+        "title": "Haptic Feedback",
+        "url": "https://aheze.github.io/FindInfo/Settings/HapticFeedback",
         "tags": [
-            "fastFood"
+            "settings"
         ]
     },
     {
-        "title": "How to eat burritos",
-        "url": "https://aheze.github.io/FindInfo/Sample-FastFood/HowToEatBurritos",
+        "title": "Hearting",
+        "url": "https://aheze.github.io/FindInfo/Photos/Hearting",
         "tags": [
-            "fastFood"
+            "photos"
         ]
     },
     {
-        "title": "How to eat grilled cheese",
-        "url": "https://aheze.github.io/FindInfo/Sample-FastFood/HowToEatGrilledCheese",
+        "title": "Photos Controls",
+        "url": "https://aheze.github.io/FindInfo/Photos/PhotosControls",
         "tags": [
-            "fastFood"
+            "photos"
         ]
     },
     {
-        "title": "How to eat nachos",
-        "url": "https://aheze.github.io/FindInfo/Sample-FastFood/HowToEatNachos",
+        "title": "Finding from Photos takes a long time",
+        "url": "https://aheze.github.io/FindInfo/Photos/TakeLongTime",
         "tags": [
-            "fastFood"
+            "photos"
         ]
     },
     {
-        "title": "How to eat tacos",
-        "url": "https://aheze.github.io/FindInfo/Sample-FastFood/HowToEatTacos",
+        "title": "Text Detected Indicator",
+        "url": "https://aheze.github.io/FindInfo/Settings/TextDetection",
         "tags": [
-            "fastFood"
+            "settings"
         ]
     },
     {
-        "title": "How to make spaghetti",
-        "url": "https://aheze.github.io/FindInfo/Sample-FastFood/HowToMakeSpaghetti",
+        "title": "Uncache Photos",
+        "url": "https://aheze.github.io/FindInfo/Photos/Uncache",
         "tags": [
-            "fastFood"
+            "photos"
         ]
     },
     {
-        "title": "How to prepare ramen",
-        "url": "https://aheze.github.io/FindInfo/Sample-FastFood/HowToPrepareRamen",
+        "title": "What are Lists?",
+        "url": "https://aheze.github.io/FindInfo/Lists/WhatAreLists",
         "tags": [
-            "fastFood"
+            "lists"
         ]
     },
     {
-        "title": "Peach smoothie",
-        "url": "https://aheze.github.io/FindInfo/Sample-Smoothies/Peach",
+        "title": "What is the Cache?",
+        "url": "https://aheze.github.io/FindInfo/Photos/WhatIsCache",
         "tags": [
-            "smoothies"
+            "photos"
         ]
     },
     {
-        "title": "Plum smoothie",
-        "url": "https://aheze.github.io/FindInfo/Sample-Smoothies/Plum",
+        "title": "What is a Word to Find?",
+        "url": "https://aheze.github.io/FindInfo/Lists/WordToFind",
         "tags": [
-            "smoothies"
-        ]
-    },
-    {
-        "title": "Red berry smoothie",
-        "url": "https://aheze.github.io/FindInfo/Sample-Smoothies/RedBerries",
-        "tags": [
-            "smoothies"
+            "lists"
         ]
     }
 ]
